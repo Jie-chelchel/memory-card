@@ -9,7 +9,6 @@ const initialPostData = {
   title: "",
   message: "",
   tags: "",
-  selectedFile: "",
 };
 
 const Form = () => {
