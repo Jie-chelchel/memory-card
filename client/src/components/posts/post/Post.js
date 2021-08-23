@@ -6,6 +6,7 @@ const Post = ({ post }) => {
   console.log(post);
   return (
     <div>
+      <p> hHH</p>
       <h2>{post.title}</h2>
       <p>Message: {post.message}</p>
       <p>Created at: {post.createdAt}</p>
